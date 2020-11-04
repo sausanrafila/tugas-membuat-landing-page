@@ -1,0 +1,18 @@
+body{
+    background: url('hmm.jpg');
+    color: #fff
+}
+h1{
+    text-transform: uppercase;
+}
+img.kanan {
+    float: right;
+    margin: 2px;
+}
+
+#box1 {
+    width:800px;
+    height:80px;
+    background:black;
+    border-radius: 10px;
+}
